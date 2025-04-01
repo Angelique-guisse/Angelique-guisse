@@ -1,4 +1,4 @@
-👋 Hi, I’m @Angelique-guisse
+## 👋 Hi, I’m @Angelique-guisse
 - 👀 I’m interested in UI, Canva and all kinds of Design
 - 🌱 I’m currently learning Web Development
 
