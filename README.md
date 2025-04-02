@@ -49,3 +49,10 @@
 ## 📫 Contact
 
 📩 E-Mail: guissangi01@gmx.de
+
+## I can communicate clearly in:
+
+🇫🇷 French
+🇩🇪 German(B2)
+🇱🇷 English
+
