@@ -53,6 +53,8 @@
 ## I can communicate clearly in:
 
 🇫🇷 French
+
 🇩🇪 German(B2)
+
 🇱🇷 English
 
