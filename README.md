@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Angelique-guisse
-- 👀 I’m interested in UI, Canva and all kinds of Design
+- 👀 I’m interested in UI/UX, Canva and all kinds of Design
 - 🌱 I’m currently learning Web Development
 
   
